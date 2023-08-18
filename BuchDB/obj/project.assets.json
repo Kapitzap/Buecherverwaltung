@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj",
+      "projectUniqueName": "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj",
       "projectName": "BuchDB",
-      "projectPath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj",
+      "projectPath": "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj",
       "packagesPath": "C:\\Users\\kapitzap\\.nuget\\packages\\",
-      "outputPath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\obj\\",
+      "outputPath": "R:\\Buecherverwaltung\\BuchDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kapitzap\\AppData\\Roaming\\NuGet\\NuGet.Config",

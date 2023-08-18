@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DHBW\\4. Semester\\C#-Visual Studio\\Programmentwurf\\Buecherverwaltung.csproj": {}
+    "R:\\Buecherverwaltung\\Programmentwurf\\Buecherverwaltung.csproj": {}
   },
   "projects": {
-    "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj": {
+    "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj",
+        "projectUniqueName": "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj",
         "projectName": "BuchDB",
-        "projectPath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj",
+        "projectPath": "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj",
         "packagesPath": "C:\\Users\\kapitzap\\.nuget\\packages\\",
-        "outputPath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\obj\\",
+        "outputPath": "R:\\Buecherverwaltung\\BuchDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kapitzap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\DHBW\\4. Semester\\C#-Visual Studio\\Programmentwurf\\Buecherverwaltung.csproj": {
+    "R:\\Buecherverwaltung\\Programmentwurf\\Buecherverwaltung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\Programmentwurf\\Buecherverwaltung.csproj",
+        "projectUniqueName": "R:\\Buecherverwaltung\\Programmentwurf\\Buecherverwaltung.csproj",
         "projectName": "Buecherverwaltung",
-        "projectPath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\Programmentwurf\\Buecherverwaltung.csproj",
+        "projectPath": "R:\\Buecherverwaltung\\Programmentwurf\\Buecherverwaltung.csproj",
         "packagesPath": "C:\\Users\\kapitzap\\.nuget\\packages\\",
-        "outputPath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\Programmentwurf\\obj\\",
+        "outputPath": "R:\\Buecherverwaltung\\Programmentwurf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kapitzap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj": {
-                "projectPath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj"
+              "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj": {
+                "projectPath": "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj"
               }
             }
           }

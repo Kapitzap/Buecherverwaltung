@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "US0H/cZ74Q0S5fzwRso4DZydDW9o4aI0SfdLyhxKVAWIAvag4ujXruBOFVj25AlSpgabcvrtWe1FqaH3XAypbA==",
+  "dgSpecHash": "H8lXivgRna8UpdNFVl1Sg1PlMB+xXZSa7tliq0gmY/x5rTuVKgJST6EOGfPDxRGlBJh5w6Ms/AmGvdpgOUzshQ==",
   "success": true,
-  "projectFilePath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\BuchDB\\BuchDB.csproj",
+  "projectFilePath": "R:\\Buecherverwaltung\\BuchDB\\BuchDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kapitzap\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\kapitzap\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/a2EUPF1eDy5GAA2xFXt24aQPvTR/xdgDUbtlyZEhWhe3aIMyCcy2B8nPqiqiN4D8X+UTG5wSbfNb4ktsr0CpQ==",
+  "dgSpecHash": "JSAHbAX5Eftt2btZsQsRPSyYl2fJkLa+xWrZW24vq2naMMPS8fE8yRi8jEpuG5TywzGSo3Y7vRXzpWCMTcmxAA==",
   "success": true,
-  "projectFilePath": "C:\\DHBW\\4. Semester\\C#-Visual Studio\\Programmentwurf\\Buecherverwaltung.csproj",
+  "projectFilePath": "R:\\Buecherverwaltung\\Programmentwurf\\Buecherverwaltung.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kapitzap\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\kapitzap\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
