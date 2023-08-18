@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="KonfigurationsLeser.cs" />
+    <Compile Remove="Models\BuchDTO.cs" />
+    <Compile Remove="Models\BuchListeModel.cs" />
+    <Compile Remove="Models\FahrzeugEinfuegenModel.cs" />
+    <Compile Remove="Models\FahrzeugLoeschenModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Buch\Einfuegen.cshtml" />
+    <Content Remove="Views\Buch\Loeschen.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuchDB\BuchDB.csproj" />
+  </ItemGroup>
+
+</Project>
