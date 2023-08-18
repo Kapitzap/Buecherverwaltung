@@ -1,0 +1,12 @@
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\bin\Debug\net5.0\BuchDB.deps.json
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\bin\Debug\net5.0\BuchDB.dll
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\bin\Debug\net5.0\ref\BuchDB.dll
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\bin\Debug\net5.0\BuchDB.pdb
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\BuchDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\BuchDB.AssemblyInfoInputs.cache
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\BuchDB.AssemblyInfo.cs
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\BuchDB.csproj.CoreCompileInputs.cache
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\BuchDB.dll
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\ref\BuchDB.dll
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\BuchDB.pdb
+C:\DHBW\4. Semester\C#-Visual Studio\BuchDB\obj\Debug\net5.0\BuchDB.csproj.AssemblyReference.cache
